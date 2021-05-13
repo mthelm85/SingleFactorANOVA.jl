@@ -3,6 +3,9 @@ uuid = "a40b7639-6cd6-46e2-b7f4-d3892dcee6c6"
 authors = ["Matt Helm <mthelm85@gmail.com> and contributors"]
 version = "0.1.0"
 
+[deps]
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+
 [compat]
 julia = "1"
 
